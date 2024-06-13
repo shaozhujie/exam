@@ -21,7 +21,7 @@ idea，vscode，navicat
 
 ### 系统截图：
 
-用户：
+ **用户：** 
 ![登录](img/image.png)
 ![首页](img/image1.png)
 ![课程](img/image2.png)
@@ -32,10 +32,10 @@ idea，vscode，navicat
 ![题库练习](img/image7.png)
 ![个人中心](img/image9.png)
 
-教师：
+ **教师：** 
 ![教师](img/image12.png)
 
-管理员：
+ **管理员：** 
 ![管理员](img/image10.png)
 
 **有问题可以咨询企鹅Q1760272627** 

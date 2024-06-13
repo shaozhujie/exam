@@ -13,6 +13,8 @@
 
 学生前台包括个人中心、题库查询、课程管理和考试管理等功能。
 
+组卷方式分随机从课程题库中抽取，或者自选题目，或为考试添加新的题目
+
 ### 采用技术：
 SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 

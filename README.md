@@ -21,7 +21,7 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 ### 工具：
 idea，vscode，navicat
 
-功能结构：
+ **功能结构：** 
 ![功能结构](img/image111.png)
 
 ### 系统截图：
